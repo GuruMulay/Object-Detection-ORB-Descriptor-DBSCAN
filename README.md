@@ -1,10 +1,10 @@
-A CNN based approach that didn't do well:
+**A CNN based approach that didn't do well:**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GuruMulay/Object-Detection-ORB-Descriptor-DBSCAN/master/train_vs_test_cnn.png?raw=true" alt=""/>
 </p>
 
-So here is a traditional, non-CNN approach of feature engineering with ORB descriptiors and DBSCAN clustering!
+**So below is a traditional, non-CNN approach of feature engineering with ORB descriptiors and DBSCAN clustering!**
 
 ### Requirements:
 + Python 3.6.8
